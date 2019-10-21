@@ -1,0 +1,3 @@
+(function s() {
+ document.write("Hello! I called myself");
+})();
